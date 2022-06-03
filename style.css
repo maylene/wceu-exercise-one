@@ -2,3 +2,8 @@
 Theme Name: WCEU Exercise One
 Template: twentytwentyone
 */
+
+.entry-title {
+    background-color: #65a48d;
+    border-radius: 3px;
+}
